@@ -17,9 +17,9 @@
 #define Acc_X       59
 #define Acc_Y       61
 #define Acc_Z       63
-#define Gyro_X		67
-#define Gyro_Y		69
-#define Gyro_Z		71
+#define Gyro_X	    67
+#define Gyro_Y	    69
+#define Gyro_Z	    71
 #define center_bt   12
 
 int mpu, center;
