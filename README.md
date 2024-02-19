@@ -1,5 +1,6 @@
 # FLIGHT SIMULATOR
-This is the final project of the Embedded Systems course. The project simulates an airplane cockpit on the Google Earth application using the tilt angles of the MPU6050 sensor.
+  This is the final project of the Embedded Systems course. The project simulates an airplane cockpit on the Google Earth application using the tilt angles of the MPU6050 sensor.
+  Programming on Raspberry Pi Zero 2W using I2C and UART Protocol
 ## Demo
 Link Youtube: https://youtu.be/RT9tjAn6bP0
 ## Definition of Pitch and Roll angles
@@ -22,11 +23,12 @@ the area under the graph by summing the areas of the trapezoid.
 
 ### Flight control
 - Flight control
-<img src="demo/fightcontrol.jpg" width="600">
+<img src="demo/flightcontrol.jpg" width="600">
 
+The center button is used to set the AirPlane to the center
 - The MPU6050 sensor mounted on the flight control is made of PVC pipe
-<img src="demo/sensor pos.jpg" width="600">
+<img src="demo/sensor pos.jpg" width="450">
 
 ### USB to TLL
 USB To TTL CH340G Converter Module Adapter. Use it to transfer data through UART
-<img src="demo/uart.jpg" width="600">
+<img src="demo/uart.jpg" width="450">
