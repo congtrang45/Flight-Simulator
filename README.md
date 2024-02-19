@@ -16,7 +16,7 @@ Link Youtube: https://youtu.be/RT9tjAn6bP0
 - When the MPU6050 sensor is moved:
   Pitch = Integral from 0 to t of Gyroscope Y, Roll = Integral from 0 to t of Gyroscope X. Because when the sensor moves, the value of Gyroscope X, Y is a discrete value, so to calculate the fraction, calculate
 the area under the graph by summing the areas of the trapezoid.
-  <img src="demo/Pitch-Roll-move.png" width="600">
+  <img src="demo/pitch-roll-move.png" width="600">
 
 ## Electrical Cabinet
 <img src="demo/cabinet.jpg" width="600">
